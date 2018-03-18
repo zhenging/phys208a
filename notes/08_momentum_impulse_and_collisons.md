@@ -7,7 +7,7 @@
 4. Demonstrate mastery of applying momentum/energy conservation and components to analyze systems involving two-dimensional collisions.
 
 > _Homework_: Ch.8 (all sections)
-_Exercises_: 11, 13, 17, 21, 27, 31, 41, 44, 54, 79
+_Exercises_: *11, 13, 17, 21, 27*, 31, 41, 44, 54, 79
 
 ### 8.1 Momentume And Impulse
 #### Newton's Second Law in Terms of Momentum

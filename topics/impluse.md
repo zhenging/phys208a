@@ -41,6 +41,15 @@ The meaning of the area under a graph of $\sum F_x$ versus $t$.
 ![Graph a](../assets/impulse_a.PNG) ![Graph b](../assets/impulse_b.PNG)
 
 ### Exercises
+8.8 **Force of a Baseball Swing**. A baseball has mass $0.148 kg$.
+(a) If the velocity of a pitched ball has a magnitude of $43.5 m/s$ and the batted ball's velocity is $60.0 m/s$ in the opposite direction, find the magnitude of *the change in momentum* of the ball and of the impulse applied to it by the bat.
+>Solution
+$P = 15.3 kg\cdot m/s$
+
+(b) If the ball remains in contact with the bat for $2.40 ms$, find the magnitude of _the average force_ applied by the bat.
+>Solution
+$F = 6382.5N$
+
 8.11 At time $t = 0$ a $2150 kg$ rocket in outer space fires an engine that exerts an increasing force on it in the $+x$ direction. This force obeys the equation $F_x = At^2$, where $t$ is time, and has a magnitude of $781.25 N$ when $t = 1.25 s$.
 a. Find the SI value of the constant $A$, including its units.
 >Solution

@@ -1,5 +1,5 @@
 ---
-tags: [integration, varying acceleration]
+tags: [calculus, varying acceleration, velocity and position integration]
 ---
 
 The acceleration of a particle is given by $a(t) = 2.00m/s^2 + (3.00m/s^3) t$. Find the initial $v_{0}$ such that the particle have the x-coordinate, at $t=4s$ and $t=0s$.

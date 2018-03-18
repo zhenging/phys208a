@@ -1,5 +1,5 @@
 ---
-tags: [momentum, conservation of momentum]
+tags: [momentum, conservation of momentum, calculus]
 ---
 
 ### Newton's Second Law in Terms of Momentum
@@ -18,6 +18,14 @@ $$
 $$
 
 ### Exercises
+8.14 Starting $t=0s$, a horizontal net force $\vec F = (0.275 N/s) \hat i + (-0.460N/s^2)t^2 \hat j$ is applied to a bos that has an initial momentum $p=(-3.10kg \cdot m/s)\hat i + (3.85kg \cdot m/s)\hat j$. What is the momentum of the box at $t = 2.15 s$?
+>Solution
+$p_x,p_y = -2.46, 2.33 kg \cdot m/s$
+
+8.33 A $15.0 kg$ fish swimming at $1.10 m/s$ suddenly gobbles up a $4.30 kg$ fish that is initially stationary. Neglect any drag effects of the water.
+>Solution
+Todo
+
 8.16 A $64.5 kg$ astronaut is doing a repair in space on the orbiting space station. She throws a $2.35 kg$ tool away from her at $3.50 m/s$ relative to the space station. Find the speed and direction she begin to move.
 >Solution
 **Identify**: Conservation of Momentum
