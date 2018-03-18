@@ -76,19 +76,6 @@ table {
   margin-left: 20px;
 }
 
-/* HomeBody */
-
-.course-list {}
-
-.course-list-item {
-  font-size: 1.25em;
-  font-weight: 600;
-  text-transform: uppercase;
-  margin: 15px 25px;
-}
-
-.course-list-item a {}
-
 .note-meta {
   background-color: #f9fafa;
   border-top: 4px solid #38accd;
@@ -282,7 +269,7 @@ table {
   text-transform: capitalize;
 }
 
-.homework-list, .misc-list {
+.homework-list, .misc-list, .topics-list {
   padding: 0;
   margin: 0;
   display: flex;
@@ -290,7 +277,7 @@ table {
   flex-wrap: wrap;
 }
 
-.homework-list .list-item, .misc-list .list-item {
+.homework-list .list-item, .misc-list .list-item, .topics-list .list-item {
   background-color: #f8f8f8;
   padding: 5px 10px;
   margin: 5px 15px 5px 0px;
