@@ -15,3 +15,8 @@
 _Homework_: Ch. 05
 _Discussion Questions_:  12, 25, 26
 _Exercises_: 2, 7, 10, 15, 21, 23, 34, 37, 60, 65, 74, 85, 89
+
+Ch. 5  Section 4, Ex. 45, 48, 50, 51, 53, 55, 56
+Ch. 13 Sections 1, 2, 4  Ex 9, 12, 15, 23, 24, 25.
+Demonstrate mastery of applying Newton's laws to analyze uniform circular motion
+Use newtons inverse square law of gravitation to calculate orbital motion of a  mass around a larger central mass.

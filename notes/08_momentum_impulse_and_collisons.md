@@ -9,7 +9,15 @@
 > _Homework_: Ch.8 (all sections)
 _Exercises_: 11, 13, 17, 21, 27, 31, 41, 44, 54, 79
 
-Ch. 5  Section 4, Ex. 45, 48, 50, 51, 53, 55, 56
-Ch. 13 Sections 1, 2, 4  Ex 9, 12, 15, 23, 24, 25.
-Demonstrate mastery of applying Newton's laws to analyze uniform circular motion
-Use newtons inverse square law of gravitation to calculate orbital motion of a  mass around a larger central mass.
+### 8.1 Momentume And Impulse
+#### Newton's Second Law in Terms of Momentum
+
+#### The Impulse-Momentum Theorem
+
+#### Momentum and Kinetic Energy Compared
+
+### 8.2 Conservation of Momentum
+
+### 8.3 Momentum conservation and collisions
+
+### 8.4 Elastic Collisions

@@ -17,7 +17,7 @@ $$
 $$
 \begin{aligned}
 \frac{1}{2}mv_0^2 + mgR &= \frac{1}{2}mv_f^2 + mgH\\
-0 + mgR &= \frac{1}{2}(\sqrt{gR\cos \th})^2 + mg \cdot R\cos\th\\
+0 + mgR &= \frac{1}{2}m(\sqrt{gR\cos \th})^2 + mg \cdot R\cos\th\\
 \To & \cos \th = \frac{2}{3}\\
 H &= R\cos \th = 10 \cdot \frac{2}{3} \approx 6.3m
 \end{aligned}
