@@ -6,7 +6,7 @@ $$
 F_c = \frac{mv^2}{R}
 $$
 
-A car is moving along an inclined _frictionless_ circular track. The inclined angle with the horizontal line is $\th = 30\degree$ The radius of the track is $100m$. Find the velocity $v$, so that the car does not move up or down.
+A car is moving along an inclined _frictionless_ circular track. The inclined angle with the horizontal line is $\th = 30\degree$, and the radius of the track is $100m$. Find the velocity $v$, so that the car does not move up or down.
 ![Graph](../assets/quiz0221_centripetal_force.PNG)
 >Solution
 $$
