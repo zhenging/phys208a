@@ -1,0 +1,13 @@
+{
+  "name": "phys208a",
+  "version": "1.0.0",
+  "description": "Notes of ECON 201A",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "course-x-build",
+    "deploy": "course-x-deploy"
+  },
+  "author": "zhenging",
+  "license": "ISC"
+}
