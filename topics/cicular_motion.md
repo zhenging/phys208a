@@ -2,10 +2,35 @@
 tags: [circuluar motion, centripetal force, normal force, frictionless]
 ---
 
+### Circular Motion
+Important Idea: Any object undergoing circular motion will experience acceleration (**centripetal acceleration** $\vec a_c$ or $\vec a_r$), and by Newton's Second Law, it takes a **Net Force**  to "force" that obect to undergo circular motion. That force is the **centripetal force** ($F_c$ or $F_r$), which is proportional to centripetal acceleration $\vec a_c$.
 $$
-F_c = \frac{mv^2}{R}
+\vec F_c = m\vec a_c = \frac{mv^2}{R}
 $$
 
+#### Circular Basics
++ Circumference: $C = 2\pi r = \pi d$
++ Arc length: $S = r\th $ ($\th$ has the unit of radian)
++ Period of Oscillation $T$: Time to one complete full Revolution/Oscillation.
++ Frequency $f$ (Hz): number of revolution/scillation occur in a given time.
+
+#### Circular Motion Quantities
++ Angular Displacement: $\Delta \th = \Delta \th_f - \Delta \th_i$
++ Angular Velocity $\omega (rad/s)$ , change in $\th$ over time. $\omega_{avg} = \dfrac{\Delta \th}{\Delta t}$
++ Angular Acceleration $a (rad/s^2)$. $a_{avg} = \dfrac{\omega}{\Delta t}$
++ Centripetal acceleration $\vec a_c (m/s^2)$. $\vec a_c = \dfrac{v^2}{r}$
++ Tangential acceleration $\vec a_t (m/s^2)$
+Object undergoing circular motion that is **Non-uniform** (speed changes).
++ Linear $\longleftrightarrow	$ Rotational Relations in Motion
+$$
+\begin{aligned}
+v &= r\omega \\
+\vec a_c &= \frac{v^2}{r} = r\omega^2\\
+\omega &= 2\pi f = \frac{2\pi}{T}
+\end{aligned}
+$$
+
+#### Exercises
 1\. A car is moving along an inclined _frictionless_ circular track. The inclined angle with the horizontal line is $\th = 30\degree$, and the radius of the track is $100$m. Find the velocity $v$, so that the car does not move up or down.
 ![Graph (1)](../assets/quiz0221_centripetal_force.PNG)
 >Solution
@@ -26,7 +51,7 @@ At the top of the track, the centripetal force is provided solely by the car's w
 1\. According to Newton's Second Law
 $$
 \begin{aligned}
-F_c &= \frac{mv_f^2}{R} = w + F_N\\
+F_c &= \frac{mv_f^2}{R} = w - F_N\\
 w &= mg\\
 F_N &= 0\\
 \To v_f &= \sqrt {gR}
@@ -48,7 +73,7 @@ In this case, $v_0 = 0.8\sqrt {gR}$.
 Whent the car leaves the track, the normal force is zero.
 $$
 \begin{aligned}
-F_c &= \frac{mv_f^2}{R} = w\cos \th + F_N\\
+F_c &= \frac{mv_f^2}{R} = w\cos \th - F_N\\
 w &= mg\\
 F_N &= 0\\
 \To v_f &= \sqrt {gR \cos \th}

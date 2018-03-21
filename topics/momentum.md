@@ -22,10 +22,6 @@ $$
 >Solution
 $p_x,p_y = -2.46, 2.33 kg \cdot m/s$
 
-8.33 A $15.0 kg$ fish swimming at $1.10 m/s$ suddenly gobbles up a $4.30 kg$ fish that is initially stationary. Neglect any drag effects of the water.
->Solution
-Todo
-
 8.16 A $64.5 kg$ astronaut is doing a repair in space on the orbiting space station. She throws a $2.35 kg$ tool away from her at $3.50 m/s$ relative to the space station. Find the speed and direction she begin to move.
 >Solution
 **Identify**: Conservation of Momentum
@@ -49,5 +45,27 @@ p_1 &= 0 = p_2 = p_r + p_b + p_g\\
 p_r &= m_r v_r = 2.80 \times (-1.85)\\
 p_b &= m_b v_b = 0.0072 \times 601\\
 p_g &= -p_r - p_b = 0.8528 N/s
+\end{aligned}
+$$
+
+(Quiz0314) A bullet $m_1 = 15g$ with intial velocity of $500m/s$ hits a wood block $m_2 = 0.8kg$ at the edge of a table with height of $0.8m$ and stays inside the block after collision. Find the final velocity of the wood block before it hits the ground.
+![Graph](../assets/quiz0314_bullet_block.PNG)
+>Solution
+Stage 1, after the bullet hits the block and before the block start to fall. By conservation of momentum
+$$
+\begin{aligned}
+m_1v_0 &= (m_1 + m_2) v_2\\
+v_2 &= \frac{m_1v_0}{m_1+ m_2} \\
+&= \frac{0.015 \cdot 500}{0.815} = 9.2m/s
+\end{aligned}
+$$
+Stage 2, from the edge of the table to the ground. Accoring to Kinematic Equations
+$$
+\begin{aligned}
+v_{yf}^2 &= v_{y0}^2 + 2ay\\
+v_{yf} &= \sqrt {v_{y0}^2 + 2ay} \\
+&= \sqrt{0 + 2\cdot 9.8\cdot 0.8 } = 3.96m^2\\
+v_f & = \sqrt{v_{xf}^2 + v_{yf}^2}\\
+&= \sqrt{9.2^2 + 3.96^2} = 10m/s
 \end{aligned}
 $$

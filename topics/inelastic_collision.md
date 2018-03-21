@@ -1,15 +1,28 @@
 ---
-tags: [kinetic energy loss]
+tags: [inelastic collision, kinetic energy loss]
 ---
+
+### Inelastic Collision
++ **Inelastic**
+Bodies collide, bounce off, eath other move off with seperate velocities.
+_Ex_: car collison and unstuck
++ **Perfectly Inelastic**
+Bodies collide and stick together, and have the same final velocity.
+*Ex*: asteroid hitting earch, bug hitting car windshield
+
+In both case, only **momentum** is conserved, the **kinetic energy** is not conserved.
 
 $$
 \begin{aligned}
-K_1 &= \frac{1}{2}(m_1v_{1i}^2+m_2v_{2i}^2)\\
-K_2 &= \frac{1}{2}(m_1v_{1f}^2+m_2v_{2f}^2)\\
-\Delta K &= K_2 - K_1
+\vec P_i &= \vec P_f\\
+m_1v_{1i} + m_2v_{2i} &= m_1v_{1f} + m_2v_{2f}\\
+KE_1 &= \frac{1}{2}(m_1v_{1i}^2+m_2v_{2i}^2)\\
+KE_2 &= \frac{1}{2}(m_1v_{1f}^2+m_2v_{2f}^2)\\
+\Delta KE &= KE_2 - KE_1 \ne 0
 \end{aligned}
 $$
 
+#### Exercises
 8.21 On a frictionless, horizontal air table, puck A (with mass $0.250 kg$) is moving toward puck B (with mass $0.355 kg$), that is initially at rest. After the collision, puck A has a velocity of $0.119 m/s$ to the left, and puck B has velocity $0.650 m/s$ to the right.
 (a) What was the speed of puck A before the collision?
 ![Graph (8.21)](../assets/8.21.PNG)
