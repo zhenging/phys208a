@@ -7,7 +7,7 @@ p173
 
 #### Exercises
 (Quiz0314) A constant external force $F=130N$ is applied to a $20kg$ box, which is on a rough horizontal surface. The force push the box a distance of $8.0m$ in a time interval of $7.0s$ and the speed changed from $v_1=0.3m/s$ to $v_2=2.3m/s$. Find the work done by the friction.
-![Graph](,,/assets/quiz0314_work.PNG)
+![Graph](../assets/quiz0314_work.PNG)
 >Solution
 1\. The work done by $F_x$ is
 $$

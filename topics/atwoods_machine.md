@@ -1,6 +1,19 @@
 ---
-tags: [atwoods machine, incline, friction, Kinematic Equations]
+tags: [atwoods machine, incline, friction, Kinematic Equations, pulley]
 ---
+
+(Mid Term 1) Two blocks are connected by a string and pulley as shown. Assuming that the string and the pulley are massless, the magnitude of the acceleration of each block is?
+![Graph](../assets/mid_term_pulley.PNG)
+>Solution
+According to Newton's Second Law
+$$
+\begin{aligned}
+\sum F_{m1} &= T-m_1 g = m_1a\\
+\sum F_{m2} &= m_2 g - T = m_2a\\
+\To & a = \frac{m_2-m_1}{m_1+m_2} \cdot g \\
+&= \frac{110-90}{90+110} \cdot 9.8 = 0.98m/s^2
+\end{aligned}
+$$
 
 $m_1 = 100.0 kg,m_2=40.0kg$ and $\th = 30\degree$. The coefficient of kinetic friction between the block of mass $m_1$ and the incline is $\mu_k = 0.70$. The initial velocity of $m_1$ is $1.5m/s$. At what distance will $m_1$ stop?
 ($m_1=100kg$)

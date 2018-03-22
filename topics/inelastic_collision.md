@@ -54,3 +54,24 @@ K_2 &= \frac{1}{2}(m_a v_{af}^2 + m_b v_{bf}^2)\\
 \Delta K &= K_2 - K_1 = -4.04 \times 10^{-3} J
 \end{aligned}
 $$
+
+(Quiz) A block of mass $m = 25kg$ has a speed of $v$ and is behind of a block $M=82kg$ that has a speed of $0.5m/s$. THe surface is frictionless. The blocks collide and couple. After the collision, the blocks have a commone speed of $0.9m/s$. Find the loss of kinetic energy.
+![Graph (8.21)](../assets/blocks_collide.PNG)
+>Solution
+1\. By Conservation of Momentum
+$$
+\begin{aligned}
+mv + Mv_{M0} &= (m+M)v_f\\
+v &= \frac{(m+M)v_f - Mv_{M0}}{m} \\
+&= \frac{0.9 \cdot (25 + 82)) - 0.5 \cdot 82}{25} \approx 2.2m/s
+\end{aligned}
+$$
+2\. By Conservation of Energy
+$$
+\begin{aligned}
+\frac{1}{2}mv^2 + \frac{1}{2}Mv_{M0}^2 &= \frac{1}{2}(m+M)v_f^2 + E_{loss}\\
+E_{loss} &= \frac{1}{2}mv^2 + \frac{1}{2}Mv_{M0}^2 - \frac{1}{2}(m+M)v_f^2\\
+&= \frac{1}{2} \times 25 \times 2.2^2 +  \frac{1}{2} \times 82 \times 0.5^2 -  \frac{1}{2} \times (25+82) \times 0.9^2\\
+&= 27.42 J
+\end{aligned}
+$$
