@@ -31,6 +31,27 @@ v &= r\omega \\
 $$
 
 #### Exercises
+(Mid Term 2) A ball of mass $m$, at the end of a string of length $L$, rotates in a vertical circle just fast enough to prevent the string from going slack at the top of the circle. The speed of the ball at the bottom of the circle is?
+![Graph](../assets/mid_term2_circular_motion_1.PNG)
+>Solution
+Todo
+$\sqrt {5gR}$
+
+(Mid Term 2) A ball of mass 8.0kg is suspended by two wired from a horizontal arm, which is attached to a vertical shaft, as show in graph. The shaft is in uniform rotation about its axis such that the linear speed of the ball equals 2.3m/s. The tension in wire 2 is closed to:
+>Solution
+Todo
+66N
+
+(Mid Term 2) A small object slides along the frictionless loop-the-loop with a diameter of 3m. What minimum speed must it have at the top of the loop?
+>Solution
+Todo
+3.8m/s
+
+(Mid Term 2) A ball of mass $m$ is suspended from a rope of length R. The ball is set into freely-swinging circular motion in a vertical plane. The centripetal acceleration of the ball at the top of the circle is $8g$. The centripetal acceleration of the ball at the bottom of the circle is closed to
+>Solution
+Todo
+$12g$
+
 1\. A car is moving along an inclined _frictionless_ circular track. The inclined angle with the horizontal line is $\th = 30\degree$, and the radius of the track is $100$m. Find the velocity $v$, so that the car does not move up or down.
 ![Graph (1)](../assets/quiz0221_centripetal_force.PNG)
 >Solution
