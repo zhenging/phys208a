@@ -38,6 +38,7 @@ Todo
 $\sqrt {5gR}$
 
 (Mid Term 2) A ball of mass 8.0kg is suspended by two wired from a horizontal arm, which is attached to a vertical shaft, as show in graph. The shaft is in uniform rotation about its axis such that the linear speed of the ball equals 2.3m/s. The tension in wire 2 is closed to:
+![Graph](../assets/mid_term2_circular_motion_2.PNG)
 >Solution
 Todo
 66N

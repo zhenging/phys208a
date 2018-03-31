@@ -56,7 +56,7 @@ K_2 &= \frac{1}{2}(m_a v_{af}^2 + m_b v_{bf}^2)\\
 $$
 
 (Quiz) A block of mass $m = 25kg$ has a speed of $v$ and is behind of a block $M=82kg$ that has a speed of $0.5m/s$. THe surface is frictionless. The blocks collide and couple. After the collision, the blocks have a commone speed of $0.9m/s$. Find the loss of kinetic energy.
-![Graph (8.21)](../assets/blocks_collide.PNG)
+![Graph (8.21)](../assets/quiz_blocks_collide.PNG)
 >Solution
 1\. By Conservation of Momentum
 $$

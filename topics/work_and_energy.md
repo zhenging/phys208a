@@ -1,5 +1,5 @@
 ---
-tags: [work, energy, friction]
+tags: [work, energy, friction, spring potential energy]
 ---
 
 ### Work
@@ -29,7 +29,7 @@ $$
 Since friction force is against the moving direction, the work down by firctin is $-848.67J$.
 
 (Mid Term 2) A 2.5kg sliding on a rough surface, has a speed of 1.2m/s when it makes contact with a spring. The block comes to a momentary halt when the compression of the spring is 5.0cm. The work done by the friction, from the instant the block makes contact with the soring until it comes to a momentary halt is -0.50J. Find the force constant of the spring.
-![Graph](../assets/mid_term2_spring_energy.PNG)
+![Graph](../assets/mid_term2_spring_potential_energy.PNG)
 >Solution
 By Conservation of Energy, _initial kinetic energy = elastic potential energy (spring) + energy loss (caused by friction)_
 Let the force constant of the spring be $k$
@@ -44,7 +44,7 @@ $$
 (Mid Term 2) A mass is projected up an inclined plane with friction coefficient of $\mu_k=0.5$ with an initial velocity $v_0 = 5m/s$.
 a. Calculate the maximum height the mass moves up the plane.
 b. Find the final velocity whtn the mass reaches the starting point (assume it does not stick at the top).
-![Graph](../assets/mid_term2_incline.PNG)
+![Graph](../assets/mid_term2_incline_energy.PNG)
 >Solution
 a. By Newton's Second Law, we have
 $$
