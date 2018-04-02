@@ -27,14 +27,6 @@ x &= v_0 t + \frac{1}{2}at^2 \qquad
 &v_f^2 &= v_0^2 + 2a\cdot x
 \end{aligned}
 $$
-+ Straight-line motion with varying acceleration
-When the acceleration is not constant but is a known function of time, we can find the velocity and position as functions of time by integrating the acceleration function.
-$$
-\begin{aligned}
-v_x &= v_{0x} + \int_0^t a_x dt\\
-x_x &= x_0 + \int_0^t v_x dt
-\end{aligned}
-$$
 
 ### Exercises
 1\. Describe the motion at interval $[t_0, t_6]$.
