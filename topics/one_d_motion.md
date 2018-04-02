@@ -2,6 +2,41 @@
 tags: [displacement-velocity relation, displacement-time relation, constant acceleration, gravity, initial velocity, final velocity, kinematic equation, 1-D motion]
 ---
 
+### Motion Along a Straright Line
++ Straight-line motion, average and instantaneous x-_velocity_:
+$$
+\begin{aligned}
+v_{av} &= \frac{\Delta x}{\Delta t} = \frac{x_2-x_1}{t_2-t_1}\\
+v &= \lim_{\Delta t \to 0} \frac{\Delta x}{\Delta t} = \frac{dx}{dt}
+\end{aligned}
+$$
++ Average and instantaneous x-_acceleration_:
+$$
+\begin{aligned}
+a_{av} &= \frac{\Delta v}{\Delta t} = \frac{v_2-x_1}{v_2-t_1}\\
+a &= \lim_{\Delta t \to 0} \frac{\Delta v}{\Delta t} = \frac{dv}{dt}
+\end{aligned}
+$$
++ Straight-line motion with _constant acceleration_
+When the x-acceleration is constant, four equations relate the position $x$ and the x-velocity $v$ at any time $t$ to the initial position $x_0$, the initial x-velocity $v _{0}$ (both measured at time $t = 0$), and the x-acceleration $a$.
+$$
+\begin{aligned}
+x &= \frac{v_0 + v_f}{2} \cdot t  \qquad
+&v_f &= v_0 + a\cdot t\\
+x &= v_0 t + \frac{1}{2}at^2 \qquad
+&v_f^2 &= v_0^2 + 2a\cdot x
+\end{aligned}
+$$
++ Straight-line motion with varying acceleration
+When the acceleration is not constant but is a known function of time, we can find the velocity and position as functions of time by integrating the acceleration function.
+$$
+\begin{aligned}
+v_x &= v_{0x} + \int_0^t a_x dt\\
+x_x &= x_0 + \int_0^t v_x dt
+\end{aligned}
+$$
+
+### Exercises
 1\. Describe the motion at interval $[t_0, t_6]$.
 ![Graph 1](../assets/quiz0122_displacement_vs_time_1.PNG)
 >Solution
