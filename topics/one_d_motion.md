@@ -28,7 +28,7 @@ x &= v_0 t + \frac{1}{2}at^2 \qquad
 \end{aligned}
 $$
 
-### Exercises
+#### Exercises
 1\. Describe the motion at interval $[t_0, t_6]$.
 ![Graph 1](../assets/quiz0122_displacement_vs_time_1.PNG)
 >Solution
@@ -57,12 +57,28 @@ y_f &= v_0 t + \frac{1}{2}at^2 \\
 $$
 
 3\. An object is thrown upward on a cliff $20m$ from the ground at an intial velocity of $30m/s$. Find the final velocity before it hits the ground.
+b. Find how long is the object in the air.
 ![Graph 3](../assets/quiz0122_throw_upward.PNG)
 >Solution
-According the kinematic equation, $v_f^2 = v_0^2 + 2ay$. We have $v_0=-30m/s, a=9.8m/s^2, y=20m$ (moving downward being positive direction).
+a. According the kinematic equation, $v_f^2 = v_0^2 + 2ay$. We have $v_0=-30m/s, a=9.8m/s^2, y=20m$ (moving downward being positive direction).
 $$
 \begin{aligned}
 v_f^2 &= (-30)^2 + 2\cdot 9.8 \cdot 20\\
 \To &v_f = \sqrt {1292} m/s \approx 35.94m/s
+\end{aligned}
+$$
+
+(Mid Term 1) A stone is thrown outward from the top of a 59.4-m high cliff with an upward velocity component of 19.5m/s. How long is the stone in the air.
+![Graph ](../assets/stone_in_air.PNG)
+>Solution
+$$
+\begin{aligned}
+y_f - y_0 &= v_0 t + \frac{1}{2} a t^2\\
+y_f &= 0m\\
+y_0 &= 59.4m\\
+a &= -9.8m/s^2\\
+v_0 &= 19.5m/s\\
+0-59.4 &= 19.5t - \frac{1}{2} \cdot 9.8 t^2\\
+\To t &= 6s
 \end{aligned}
 $$

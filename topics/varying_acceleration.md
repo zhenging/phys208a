@@ -33,14 +33,14 @@ The acceleration of a particle is given by $a(t) = 2.00m/s^2 + (3.00m/s^3) t$. F
 >Solution
 $$
 \begin{aligned}
-v-v_0 &= \int_0^t adt\\
-v&= v_0 + \int_0^t (2+3t)dt\\
+v(t) &= v_0 + \int_0^t adt\\
+&= v_0 + \int_0^t (2+3t)dt\\
 &= v_0 + 2t + \frac{3}{2}t^2\\
-x-x_0 &= \int_0^t vdt\\
-x&= x_0 + \int_0^t (v_0 + 2t + \frac{3}{2}t^2)dt\\
+x(t) &= x_0 + \int_0^t vdt\\
+&= x_0 + \int_0^t (v_0 + 2t + \frac{3}{2}t^2)dt\\
 &= x_0 + v_0 t + t^2 +\frac{1}{2}t^3\\
-x\mid_{t=0} &= x_0 + 0\\
-x\mid_{t=4} &= x_0 + 4v_0 + 16 + \frac{1}{2} \cdot 64\\
-x\mid_{t=0} &= x\mid_{t=4} \To v_0 = -12m/s
+x(0) &= x(t)\\
+x_0 + 0 &= x_0 + 4v_0 + 16 + \frac{1}{2} \cdot 64\\
+\To v_0 &= -12m/s
 \end{aligned}
 $$
