@@ -17,3 +17,8 @@ Todo
 >Solution
 Todo
 0.577 ($\tan 30\degree$)
+
+(Mid Term 2) The system shown remains at rest. Each block weights 20N. The force of friction on the uppder block is:
+![Graph](../assets/mid_term2_incline_friction.PNG)
+>Solution
+4N

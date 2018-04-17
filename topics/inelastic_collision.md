@@ -75,3 +75,8 @@ E_{loss} &= \frac{1}{2}mv^2 + \frac{1}{2}Mv_{M0}^2 - \frac{1}{2}(m+M)v_f^2\\
 &= 27.42 J
 \end{aligned}
 $$
+
+(Mid Term 2) A block moves at 5.0m/s in the positive x direction and hits an identical block, initial at rest. A small amount of gunpowder had been placed on one of the blockes, The explosion does not harm the blocks but it doubles their total kinectic energy. After the explosion the blocks move along the x axis the incident block has a speed of:
+>Solution
+6.8m/s
+Todo
