@@ -23,7 +23,7 @@ KE_2 &= \frac{1}{2}(m_1v_{1f}^2+m_2v_{2f}^2)\\
 $$
 
 #### Exercises
-8.21 On a frictionless, horizontal air table, puck A (with mass $0.250 kg$) is moving toward puck B (with mass $0.355 kg$), that is initially at rest. After the collision, puck A has a velocity of $0.119 m/s$ to the left, and puck B has velocity $0.650 m/s$ to the right.
+(8.21) On a frictionless, horizontal air table, puck A (with mass $0.250 kg$) is moving toward puck B (with mass $0.355 kg$), that is initially at rest. After the collision, puck A has a velocity of $0.119 m/s$ to the left, and puck B has velocity $0.650 m/s$ to the right.
 (a) What was the speed of puck A before the collision?
 ![Graph (8.21)](../assets/8.21.PNG)
 >Solution
@@ -78,5 +78,13 @@ $$
 
 (Mid Term 2) A block moves at 5.0m/s in the positive x direction and hits an identical block, initial at rest. A small amount of gunpowder had been placed on one of the blockes, The explosion does not harm the blocks but it doubles their total kinectic energy. After the explosion the blocks move along the x axis the incident block has a speed of:
 >Solution
-6.8m/s
-Todo
+$$
+\begin{aligned}
+m_1 v_0 &= m_1 v_1 + m_2 v_2\\
+\frac{1}{2} m_1 v_1^2 + \frac{1}{2} m_2 v_2^2 &= 2 \times (\frac{1}{2}m_1 v_0^2)\\
+m_1 &= m_2\\
+\To 2v_2^2 &-10v_2-25 = 0\\
+\To v_2 &= 6.83m/s \text{ or } -1.83m/s
+\end{aligned}
+$$
+The second block moves along positve axis at $v_2 = 6.83m/s$; the first block moves along negative x-axis at $v_1 = 1.83m/s$
