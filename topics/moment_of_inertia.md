@@ -6,7 +6,7 @@ tags: [torque, moment of inertia, angular acceleration]
 p290
 
 #### Exercises
-(10.9) The flywheel of an engine has moment of inertia _1.30 kg⋅m2_ about its rotation axis. What constant torque is required to bring it up to an angular speed of _400 rev/min_ in _8.00 s_, starting from rest?
+(10.9) The flywheel of an engine has moment of inertia _$1.30 kg \cdot m^2$_ about its rotation axis. What constant torque is required to bring it up to an angular speed of _400 rev/min_ in _8.00 s_, starting from rest?
 >Solution
 $6.81N\cdot m$
 
