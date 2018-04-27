@@ -88,12 +88,8 @@ $$
 I &= mR^2 + mR^2 = 2mR^2 &\text{(2)}
 \end{aligned}
 $$
-The distance $d$ from the center of mass to the pivot point is $$
-\begin{aligned}
-d &= R &\text{(3)}
-\end{aligned}
-$$
-Plugging (2) and (3) back to (1), we have
+The distance $d$ from the center of mass to the pivot point is $d = R$.
+Combining (1) and (2), we have
 $$
 \begin{aligned}
 T &= 2\pi \sqrt{\frac{2mR^2}{mgR}} = 2\pi \sqrt{\frac{2R}{g}}\\
