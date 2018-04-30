@@ -1,4 +1,4 @@
-### Ch. 12 Fluids
+### Ch. 12 Fluids Mechanics
 
 #### Learning Objectives
 1. Understand how density characterizes different materials and forms of matter.
@@ -8,3 +8,8 @@
 5. Demonstrate understanding and mastery of of Bernoulli's equation ("energy density equilization"), along with volume conservation to describing complex dynamic fluid flow systems (with ideally frictionless flow).
 
 > HW: 4, 9, 15, 21, 26, 28, 33, 38, 55, 58, 63, 72, 77, 81
+
+#### Sections
++ [Pressure In a Fluid](/phys208a/topics/pressure_in_a_fluid.html)
++ [Buoyancy](/phys208a/topics/buoyancy.html)
++ [Bernoulli's Equation](/phys208a/topics/bernoullis_equation.html)

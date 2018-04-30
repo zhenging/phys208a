@@ -2,6 +2,7 @@
 tags: [Newton's Second Law, contact force]
 ---
 
+### Contact Force
 Force $F$ is applied upon $m_1$ and $m_2$.
 ![Graph 2](../assets/contact_force.PNG)
 a). Find $a$.
