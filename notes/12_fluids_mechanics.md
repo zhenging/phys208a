@@ -12,4 +12,5 @@
 #### Sections
 + [Pressure In a Fluid](/phys208a/topics/pressure_in_a_fluid.html)
 + [Buoyancy](/phys208a/topics/buoyancy.html)
++ [Fluid Flow](/phys208a/topics/fluid_flow.html)
 + [Bernoulli's Equation](/phys208a/topics/bernoullis_equation.html)
