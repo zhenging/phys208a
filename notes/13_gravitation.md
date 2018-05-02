@@ -6,6 +6,5 @@
 3. Understand and be able to derive the expression for escape velocity from a planet.
 4. Understand the relationship between escape velocity and the formation of a black hole.
 
-
 > Reading: Ch. 13 Sections 1, 2, 4
 HW: 1, 11, 12, 13, 15, 16, 17, 18, 19, 20, 23, 25, 30, 38, 39, 40

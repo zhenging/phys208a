@@ -1,5 +1,6 @@
 ---
-tags: [SHM, simple harmonic motion, physical pendulum]
+tags: [SHM, simple harmonic motion, physical pendulum, torque]
+page: 451
 ---
 
 ### The Physical Pendulum
