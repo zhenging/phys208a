@@ -1,9 +1,9 @@
 ---
-tags: [torque]
+tags: [torque, rotational motion]
+page: 303
 ---
 
 ### Torque
-p303
 
 #### Exercises
 (11.6) Two people are carrying a uniform wooden board that is 3.00 m long and weighs 160 N. If one person applies an upward force equal to 60 N at one end, at what point does the other person lift? Begin with a free-body diagram of the board.
@@ -33,6 +33,23 @@ c. $s = 2.7m$
 a. How far beyond point B can the boy walk before the beam tips?
 b. How far from the right end of the beam should support B be placed so that the boy can walk just to the end of the beam without causing it to tip?
 ![Graph](../assets/YF-11-25.jpg)
+![Graph](../assets/11-12a.png)
+![Graph](../assets/11-12b.png)
 >Solution
-a. $1.25m$
-b. $1.5m$
+Let $C$ be the center of mass of the beam and $P$ be the pivot point. Just before the beam tips, the normal force at $A$ is zero and normal force at $B$ is the total weight of the beam and the boy.
+a.  Let $BD = x$.
+$$
+\begin{aligned}
+m_{beam}\cdot g \cdot CP + m_{boy}\cdot g &= F_B \cdot 2\\
+300 \cdot \frac{9}{2} + 600 \cdot (2-x) &= (300 + 600) \cdot 2\\
+\To & x=1.25m
+\end{aligned}
+$$
+b. Let $BP = x$
+$$
+\begin{aligned}
+m_{beam}\cdot g \cdot CP &= F_B \cdot BP\\
+300 \cdot \frac{9}{2} & = (300 + 600) x\\
+\To & x=1.5m
+\end{aligned}
+$$

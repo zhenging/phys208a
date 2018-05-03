@@ -8,28 +8,6 @@ $$
 \vec F_c = m\vec a_c = \frac{mv^2}{R}
 $$
 
-#### Circular Basics
-+ Circumference: $C = 2\pi r = \pi d$
-+ Arc length: $S = r\th $ ($\th$ has the unit of radian)
-+ Period of Oscillation $T$: Time to one complete full Revolution/Oscillation.
-+ Frequency $f$ (Hz): number of revolution/scillation occur in a given time.
-
-#### Circular Motion Quantities
-+ Angular Displacement: $\Delta \th = \Delta \th_f - \Delta \th_i$
-+ Angular Velocity $\omega (rad/s)$ , change in $\th$ over time. $\omega_{avg} = \dfrac{\Delta \th}{\Delta t}$
-+ Angular Acceleration $a (rad/s^2)$. $a_{avg} = \dfrac{\omega}{\Delta t}$
-+ Centripetal acceleration $\vec a_c (m/s^2)$. $\vec a_c = \dfrac{v^2}{r}$
-+ Tangential acceleration $\vec a_t (m/s^2)$
-Object undergoing circular motion that is **Non-uniform** (speed changes).
-+ Linear $\longleftrightarrow	$ Rotational Relations in Motion
-$$
-\begin{aligned}
-v &= r\omega \\
-\vec a_c &= \frac{v^2}{r} = r\omega^2\\
-\omega &= 2\pi f = \frac{2\pi}{T}
-\end{aligned}
-$$
-
 #### Exercises
 (Mid Term 2) A ball of mass $m$, at the end of a string of length $L$, rotates in a vertical circle just fast enough to prevent the string from going slack at the top of the circle. The speed of the ball at the bottom of the circle is?
 ![Graph](../assets/mid_term2_circular_motion_1.PNG)

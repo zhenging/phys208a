@@ -97,3 +97,12 @@ T &= 2\pi \sqrt{\frac{2mR^2}{mgR}} = 2\pi \sqrt{\frac{2R}{g}}\\
 \To R &= (\frac{T}{2\pi})^2 \cdot \frac{g}{2} = 0.496m
 \end{aligned}
 $$
+
+(14.55) A 1.80-kg connecting rod from a car engine is pivoted about a horizontal knife edge as shown in Fig. E14.55. The center of gravity of the rod was located by balancing and is 0.200 m from the pivot. When the rod is set into small-amplitude oscillation, it makes 100 complete swings in 120 s. Calculate the moment of inertia of the rod about the rotation axis through the pivot.
+![Graph](../assets/14.55.png)
+
+(14.64)
+
+(14.66)
+
+(14.68)

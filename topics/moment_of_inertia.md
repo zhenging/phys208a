@@ -1,9 +1,15 @@
 ---
 tags: [torque, moment of inertia, angular acceleration]
+page: 290
 ---
 
 ### Moment of Inertia
-p290
+$$
+\begin{aligned}
+I = \int r^2 dm
+\end{aligned}
+$$
+
 
 #### Exercises
 (10.9) The flywheel of an engine has moment of inertia _$1.30 kg \cdot m^2$_ about its rotation axis. What constant torque is required to bring it up to an angular speed of _400 rev/min_ in _8.00 s_, starting from rest?

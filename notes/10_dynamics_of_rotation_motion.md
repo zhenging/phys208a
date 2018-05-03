@@ -9,3 +9,7 @@
 
 > HW: Ch. 10
 1, 4, 8, 9, 15, 16, 23, 31, 32, 33, 35, 40, 41
+
+#### Sections
++ [Torque](/phys208a/topics/torque.html)
++ [Angular Momentum](/phys208a/topics/angular_momentum.html)

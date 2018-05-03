@@ -11,4 +11,4 @@
 #### Sections
 + [Simple Harmonic Motion](/phys208a/topics/simple_harmonic_motion.html)
 + [The Simple Pendulum](/phys208a/topics/simple_pendulum.html)
-+ [The physical Pendulum](/phys208a/topics/physical_pendulum.html)
++ [The Physical Pendulum](/phys208a/topics/physical_pendulum.html)
