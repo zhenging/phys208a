@@ -1,9 +1,10 @@
 ---
 tags: [work, energy, friction, spring potential energy]
+page: 173
 ---
 
 ### Work
-p173
+Todo
 
 #### Exercises
 (Quiz0314) A constant external force $F=130N$ is applied to a $20kg$ box, which is on a rough horizontal surface. The force push the box a distance of $8.0m$ in a time interval of $7.0s$ and the speed changed from $v_1=0.3m/s$ to $v_2=2.3m/s$. Find the work done by the friction.

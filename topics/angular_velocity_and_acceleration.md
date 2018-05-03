@@ -6,7 +6,7 @@ page: 273
 ### Angular Velocity And Acceleration
 
 + Circumference: $C = 2\pi r = \pi d$
-+ Arc length: $S = r\th $ ($\th$ has the unit of radian)
++ Arc length: $S = r\th$ ($\th$ has the unit of radian)
 + Period of Oscillation $T$: Time to one complete full Revolution/Oscillation.
 + Frequency $f$ (Hz): number of revolution/scillation occur in a given time.
 
@@ -16,7 +16,7 @@ page: 273
 + Centripetal acceleration $\vec a_c (m/s^2)$. $\vec a_c = \dfrac{v^2}{r}$
 + Tangential acceleration $\vec a_t (m/s^2)$
 Object undergoing circular motion that is **Non-uniform** (speed changes).
-+ Linear $\longleftrightarrow	$ Rotational Relations in Motion
++ Linear $\longleftrightarrow$ Rotational Relations in Motion
 $$
 \begin{aligned}
 v &= r\omega \\
