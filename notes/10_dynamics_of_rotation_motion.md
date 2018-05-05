@@ -11,5 +11,7 @@
 1, 4, 8, 9, 15, 16, 23, 31, 32, 33, 35, 40, 41
 
 #### Sections
-+ [Torque](/phys208a/topics/torque.html)
-+ [Angular Momentum](/phys208a/topics/angular_momentum.html)
++ [Torque](/phys208a/topics/1001_torque.html)
++ [Torque And Angular Acceleration](/phys208a/topics/1002_torque_and_angular_acceleration.html)
++ [Rigid-Body Rotation About A Moving Axis](/phys208a/topics/1003_rotation_about_a_moving_axis.html)
++ [Angular Momentum](/phys208a/topics/1005_angular_momentum.html)

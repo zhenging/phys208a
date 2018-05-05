@@ -1,7 +1,6 @@
 ---
 tags: [gravitational potential energy]
-page: 405
 ---
 
-### Gravitational Potential Energy
+### 1303 Gravitational Potential Energy
 Todo

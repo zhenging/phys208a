@@ -1,9 +1,8 @@
 ---
 tags: [angular velocity, angular acceleration]
-page: 273
 ---
 
-### Angular Velocity And Acceleration
+### 0901 Angular Velocity And Acceleration
 
 + Circumference: $C = 2\pi r = \pi d$
 + Arc length: $S = r\th$ ($\th$ has the unit of radian)
@@ -26,7 +25,14 @@ v &= r\omega \\
 $$
 
 #### Exerices
-(9.14 )A circular saw blade of diameter $0.205 m$ starts from rest. In a time interval of $6.35 s$ it accelerates with constant angular acceleration to an angular velocity of $133 rad/s$. Find the angular acceleration and the angle through which the blade has turned.
+(9.2) An airplane propeller is rotating at 1980 rev/min.
+a. Compute the propeller's angular velocity in rad/s.
+b. How long in seconds does it take for the propeller to turn through $37 \degree$?
+>Solution
+a. $\omega = 207 rad/s$
+b. $t = 3.11 \times 10^{-3}s$
+
+(9.14) A circular saw blade of diameter $0.205 m$ starts from rest. In a time interval of $6.35 s$ it accelerates with constant angular acceleration to an angular velocity of $133 rad/s$. Find the angular acceleration and the angle through which the blade has turned.
 >Solution
 $$
 \begin{aligned}

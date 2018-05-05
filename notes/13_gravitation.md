@@ -10,6 +10,6 @@
 HW: 1, 11, 12, 13, 15, 16, 17, 18, 19, 20, 23, 25, 30, 38, 39, 40
 
 #### Sections
-+ [Newton's Law of Gravitation](/phys208a/topics/gravitation.html)
-+ [Gravitational Potential Energy](/phys208a/topics/gravitational_potential_energy.html)
-+ [Black Hole](/phys208a/topics/black_hole.html)
++ [Newton's Law of Gravitation](/phys208a/topics/1301_newtons_law_of_gravitation.html)
++ [Gravitational Potential Energy](/phys208a/topics/1303_gravitational_potential_energy.html)
++ [Black Hole](/phys208a/topics/1308_black_hole.html)

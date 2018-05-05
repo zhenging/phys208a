@@ -1,8 +1,8 @@
 ---
-tags: [Bernoulli's Equation, ]
+tags: [Bernoulli's Equation]
 ---
 
-### Bernoulli's Equation
+### 1205 Bernoulli's Equation
 
 #### Exercises
 (12.41) A sealed tank containing seawater to a height of 10.1 m also contains air above the water at a gauge pressure of 3.15 atm . Water flows out from the bottom through a small hole.
@@ -54,11 +54,12 @@ b. What is the volume discharged per unit time.
 a. $v = \sqrt {2hg} = \sqrt {2 \cdot 9.8 \cdot 14} = 16.6m/s$. (Toricell's theorem)
 b. $\frac{dV}{dt} = A \frac{dS}{dt} = Av = \pi (3 \cdot 10^{-3})^2 \cdot 16.6 = 4.69 * 10^{-4} m^3/s$
 
-(12.46) At one point in a pipeline the water's speed is 3.00m/s and the gauge pressure is $5.00 \times 104Pa$. Find the gauge pressure at a second point in the line, 11.0m lower than the first, if the pipe diameter at the second point is twice that at the first.
+(12.46) At one point in a pipeline the water's speed is $3.00m/s$ and the gauge pressure is $5.00 \times 10^4Pa$. Find the gauge pressure at a second point in the line, 11.0m lower than the first, if the pipe diameter at the second point is twice that at the first.
 >Solution
 $$
 \begin{aligned}
 p_1 + \rho gy_1 + \frac{1}{2} \rho v_1^2 &= p_2 + \rho gy_2 + \frac{1}{2} \rho v_2^2\\
+p_2 &= p_1+ \rho g(y_1-y_2) + \frac{1}{2} \rho ( v_1^2 -  v_2^2)\\
 p_1 &= 5\cdot 10^4\\
 y_1 & = 11\\
 y_2 &= 0\\

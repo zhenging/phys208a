@@ -1,8 +1,7 @@
 ---
 tags: [torque, angular momentum]
-page: 317
 ---
 
-### Angular Momentum
+### 1005 Angular Momentum
 
 #### Exercises

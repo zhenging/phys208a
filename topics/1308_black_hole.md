@@ -1,7 +1,6 @@
 ---
 tags: [black hole]
-page: 419
 ---
 
-### Black Hole
+### 1308 Black Hole
 Todo

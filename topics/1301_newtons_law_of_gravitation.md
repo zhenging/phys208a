@@ -1,9 +1,8 @@
 ---
 tags: [Newton's Law of Gravitation, Gravitation]
-page: 398
 ---
 
-### Newton's Law of Gravitation
+### 1301 Newton's Law of Gravitation
 
 >Definition
 Every particle of matter in the universe attracks every other particle with a force that is directly proportional to the product of the masses of the particles and inversely proportional to the square of the distant between them.

@@ -2,7 +2,7 @@
 tags: [buoyancy, Archimede's Principle]
 ---
 
-### Buoyancy
+### 1203 Buoyancy
 
 **Archimedes's principLe**: When a body is completely or partially immersed in a fluid, the fluid exerts an upward force on the body equal to the weight of the fluid displaced by the body.
 
