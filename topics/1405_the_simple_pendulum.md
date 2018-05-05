@@ -1,9 +1,8 @@
 ---
 tags: [SHM, simple harmonic motion, simple pendulum]
-page: 450
 ---
 
-### The Simple Pendulum
+### 1405 The Simple Pendulum
 A **simple pendulum** is an idealized model consisting of a point mass suspended by a massless, unstretchable string.
 
 ![Graph](../assets/1404_simple_pendulum.png)

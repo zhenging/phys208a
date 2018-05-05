@@ -1,9 +1,8 @@
 ---
 tags: [SHM, simple harmonic motion, physical pendulum, torque]
-page: 451
 ---
 
-### The Physical Pendulum
+### 1406 The Physical Pendulum
 A **Physical Pendulum** is any real pendulum that uses an extended body, as contrasted to the idealized simple pendulum with all of its mass concentrated at a point.
 ![Graph](../assets/14.23.png)
 **Figure 14.23** shows a body of irregular shape pivoted so that it can turn without friction about an axis through point $O$. When the body is displaced as shown, the weight mg causes a restoring torque
@@ -25,7 +24,7 @@ $$
 \frac{d^2 \th}{d t^2} = -\frac{mgd}{I}\th \quad &\text{(3)}
 \end{gathered}
 $$
-Comparing equation (3) with $a = \dfrac{d^2 x}{dt^2}= -\dfrac{k}{m}x$ for the spring-mass system, the quantity ($mgd/I$) and $\frac{k}{m}$ play the same role. Thus the angular frequency is
+Comparing equation (3) with $a = \dfrac{d^2 x}{dt^2}= -\dfrac{k}{m}x$ for the spring-mass system, the quantity ($\dfrac{mgd}{I}$) and $\dfrac{k}{m}$ play the same role. Thus the angular frequency is
 $$
 \begin{aligned}
 \omega &= \sqrt{\frac{mgd}{I}} \quad &\text{(4)}
@@ -100,9 +99,60 @@ $$
 
 (14.55) A 1.80-kg connecting rod from a car engine is pivoted about a horizontal knife edge as shown in Fig. E14.55. The center of gravity of the rod was located by balancing and is 0.200 m from the pivot. When the rod is set into small-amplitude oscillation, it makes 100 complete swings in 120 s. Calculate the moment of inertia of the rod about the rotation axis through the pivot.
 ![Graph](../assets/14-55.png)
+>Solution
+1\. Period $T = \dfrac{120s}{100} = 1.2s$
+2\. The moment of inertia can be obtained by
+$$
+\begin{aligned}
+T &= 2\pi \sqrt {\dfrac{I}{mgd}}\\
+\To I &= mgd \cdot (\frac{T}{2\pi})^2\\
+&= 1.8 \cdot 9.8 \cdot 0.02 \cdot (\frac{1.2}{2\pi})^2\\
+&= 0.0129 kg \cdot m^2
+\end{aligned}
+$$
 
-(14.64)
+(14.64) An object is undergoing SHM with period 0.300 s and amplitude 6.00 cm. At t = 0 the object is instantaneously at rest at x = 6.00 cm. Calculate the time it takes the object to go from x = 6.00 cm to x = -1.50 cm.
+>Solution
+The position vs time equation is $x(t) = A\cos(\omega t + \phi)$. When $t = 0, x = A$, we have $\phi = 0$. Therefore
+$$
+\begin{aligned}
+\omega &= \frac{2\pi}{T} = 20.94 rad/s\\
+A &= 0.06m\\
+x(t) &= 0.06\cos(20.94 t)\\
+x(t_1) &= 0.06 \To t_1 = 0s\\
+x(t_2) &= -0.015 \To t_2 = \frac{\arccos(-\frac{1}{4})}{20.94}= 0.087s\\
+\Delta t &= t_2 - t_1 = 0.087s
+\end{aligned}
+$$
 
-(14.66)
+(14.66) Four passengers with combined mass 250 kg compress the springs of a car with worn-out shock absorbers by 4.00 cm when they get in. Model the car and passengers as a single body on a single ideal spring. If the loaded car has a period of vibration of 1.92 s, what is the period of vibration of the empty car?
+>Solution
+1\. The force constant of the spring is
+$$
+\begin{aligned}
+k &= \frac{F}{x} = \frac{250 \cdot 9.8}{0.04} = 61250N/m
+\end{aligned}
+$$
+2\. The period of the loaded car is $T_{loaded} = 1.92s$. Calculate the mass of the loaded car $m_{loaded}$
+$$
+\begin{aligned}
+T_{loaded} &= 2\pi\sqrt{\frac{m_{loaded}}{k}}\\
+\To m_{loaded} &= k \cdot (\frac{T_{loaded}}{2\pi})^2\\
+&= 61250 \cdot (\frac{1.92}{2\pi})^2\\
+&= 5719.4kg
+\end{aligned}
+$$
+3\. The period of vibration of the empty car $T_{empty}$ is
+$$
+\begin{aligned}
+m_{empty} &= m_{loaded} - 250 = 5469.4kg\\
+T &=  2\pi \sqrt{\frac{m_{empty}}{k}}\\
+&= 2\pi \sqrt{\frac{5469.4}{61250}}\\
+&= 1.88s
+\end{aligned}
+$$
 
-(14.68)
+(14.68) A block with mass $M$ rests on a frictionless surface and is connected to a horizontal spring of force constant $k$. The other end of the spring is attached to a wall (Fig. P14.68). A second block with mass $m$ rests on top of the first block. The coefficient of static friction between the blocks is $\mu_s$. Find the maximum amplitude of oscillation such that the top block will not slip on the bottom block.
+![Graph](../assets/14-68.png)
+>Solution
+Todo

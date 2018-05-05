@@ -41,3 +41,30 @@ $$
 &= \frac{0.34 \cdot 1030}{1260} = 27.8\%
 \end{aligned}
 $$
+
+(12.31) A rock with density $2300 kg/m^3$ is suspended from the lower end of a light string. When the rock is in air, the tension in the string is 43.0 N . What is the tension in the string when the rock is totally immersed in a liquid with density $750 kg/m^3$?
+>Solution
+1\. The volume $V$ of the rock
+$$
+\begin{aligned}
+V &= \frac{W}{g \rho}\\
+&=\frac{43}{9.8 \cdot 2300} = 0.0019m^3
+\end{aligned}
+$$
+2\. Newtons's First Law
+$$
+\begin{aligned}
+W &= F_B + T = \rho_{liquid} g V + T\\
+\To T &= W - \rho_{liquid} g V\\
+&= 43 - 750 \cdot 9.8 \cdot 0.0019 = 29 N
+\end{aligned}
+$$
+
+(12.32) A hollow, plastic sphere is held below the surface of a freshwater lake by a cord anchored to the bottom of the lake. The sphere has a volume of $0.670 m^3$ and the tension in the cord is 1120 N.
+a. Calculate the buoyant force exerted by the water on the sphere.
+b. What is the mass of the sphere?
+c. The cord breaks and the sphere rises to the surface. When the sphere comes to rest, what fraction of its volume will be submerged?
+>Solution
+a. $F = 6570N$
+b. $m=556kg$
+c. $\frac{V_{sub}}{V_{obj}} = 82.9 \%$
