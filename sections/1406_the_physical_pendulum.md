@@ -38,8 +38,8 @@ T &= \frac{2\pi}{\omega} = 2\pi \sqrt{\frac{I}{mgd}} \quad &\text{(5)}
 \end{aligned}
 $$
 
-#### Exercises
-(Example 14.9) If the body in Fig 14.23 is a uniform rod with length L, pivoted at one end, what is the period of its motion as a pendulum?
+#### Examples
+(14.9) If the body in Fig 14.23 is a uniform rod with length L, pivoted at one end, what is the period of its motion as a pendulum?
 >Solution
 According to the parallel axis theorem, the moment of inertia of a uniform rod about an axis through one end is
 $$
@@ -55,6 +55,7 @@ T &= 2\pi \sqrt{\frac{I}{mgd}} = 2\pi \sqrt{\frac{\frac{1}{3} mL^2}{mgL/2}} = 2\
 \end{aligned}
 $$
 
+#### Exercises
 (14.53) Two pendulums have the same dimensions (length L) and total mass (m). Pendulum A is a very small ball swinging at the end of a uniform massless bar. In pendulum B, half the mass is in the ball and half is in the uniform bar.
 a. Find the period of pendulum A for small oscillations.
 b. Find the period of pendulum B for small oscillations.

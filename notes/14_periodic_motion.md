@@ -6,9 +6,9 @@
 3. Understand how the pivot point for the physical pendulum requires knowledge of the _parallel axis theorem_.
 4. Be able to calculate displacement (or angle), velocity, acceleration, and energy for an object executing simple harmonic motion.
 
-> HW: 3, 4, 7, 19, 25, 27, 28, 34, 37, _45, 47, 48, 53, 54, 55, 64, 66_, 68
+> HW: 3, 4, 7, 19, 25, 27, 34, 37
 
 #### Sections
-+ [Simple Harmonic Motion](/phys208a/topics/1402_simple_harmonic_motion.html)
-+ [The Simple Pendulum](/phys208a/topics/1405_the_simple_pendulum.html)
-+ [The Physical Pendulum](/phys208a/topics/1406_physical_pendulum.html)
++ [Simple Harmonic Motion](./1402_simple_harmonic_motion.html)
++ [The Simple Pendulum](./1405_the_simple_pendulum.html)
++ [The Physical Pendulum](./1406_physical_pendulum.html)

@@ -10,7 +10,7 @@
 > HW: 4, 9, 15, 21, 26, 28, 33, 38, 55, 58, 63, 72, 77, 81
 
 #### Sections
-+ [Pressure In a Fluid](/phys208a/topics/1202_pressure_in_a_fluid.html)
-+ [Buoyancy](/phys208a/topics/1203_buoyancy.html)
-+ [Fluid Flow](/phys208a/topics/1204_fluid_flow.html)
-+ [Bernoulli's Equation](/phys208a/topics/1205_bernoullis_equation.html)
++ [Pressure In a Fluid](./1202_pressure_in_a_fluid.html)
++ [Buoyancy](./1203_buoyancy.html)
++ [Fluid Flow](./1204_fluid_flow.html)
++ [Bernoulli's Equation](./1205_bernoullis_equation.html)

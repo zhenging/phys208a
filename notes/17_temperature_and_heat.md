@@ -3,7 +3,7 @@
 #### Learning Objectives
 Todo
 
-> HW: 
+> HW:
 
 #### Sections
-+ [Thermal Expansion](/phys208a/topics/thermal_expansion.html)
++ [Thermal Expansion](./1701_thermal_expansion.html)

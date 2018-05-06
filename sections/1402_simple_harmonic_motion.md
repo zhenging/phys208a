@@ -33,8 +33,6 @@ a_x &= \frac{dv}{dt} = \frac{d^2 x}{dt^2} = -A\omega^2 \cos(\omega t + \phi)
 \end{aligned}
 $$
 
-
-
 #### Exercises
 (14.10) When a 0.850-kg mass oscillates on an ideal spring, the frequency is 1.95 Hz.
 a. What will the frequency be if 0.160 kg are added to the original mass? Try to solve this problem without finding the force constant of the spring.

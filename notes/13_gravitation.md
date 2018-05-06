@@ -7,9 +7,11 @@
 4. Understand the relationship between escape velocity and the formation of a black hole.
 
 > Reading: Ch. 13 Sections 1, 2, 4
-HW: 1, 11, 12, 13, 15, 16, 17, 18, 19, 20, 23, 25, 30, 38, 39, 40
+HW: 30,
 
 #### Sections
-+ [Newton's Law of Gravitation](/phys208a/topics/1301_newtons_law_of_gravitation.html)
-+ [Gravitational Potential Energy](/phys208a/topics/1303_gravitational_potential_energy.html)
-+ [Black Hole](/phys208a/topics/1308_black_hole.html)
++ [Newton's Law of Gravitation](./1301_newtons_law_of_gravitation.html)
++ [Weight](./1302_weight.html)
++ [Gravitational Potential Energy](./1303_gravitational_potential_energy.html)
++ [The Motion of Satellites](./1304_motion_of_satellites.html)
++ [Black Hole](./1308_black_hole.html)
