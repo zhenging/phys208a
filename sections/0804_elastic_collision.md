@@ -25,4 +25,6 @@ $$
 Todo
 
 (8.48) A $10.0 g$ marble slides to the left with a velocity of magnitude $0.400 m/s$ on the frictionless, horizontal surface of an icy New York sidewalk and has a head-on, **elastic collision** with a larger $30.0 g$ marble sliding to the right with a velocity of magnitude $0.200 m/s$. Let $+x$ be to the right. (Since the collision is head-on, all the motion is along a line.)
-![Graph (8.48)](../assets/8.48.jpg)
+![Graph](../assets/8_48.jpg)
+>Solution
+Todo

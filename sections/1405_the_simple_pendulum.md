@@ -5,7 +5,7 @@ tags: [SHM, simple harmonic motion, simple pendulum]
 ### 1405 The Simple Pendulum
 A **simple pendulum** is an idealized model consisting of a point mass suspended by a massless, unstretchable string.
 
-![Graph](../assets/1404_simple_pendulum.png)
+![Graph](../assets/fig_1421.png)
 The restorng force is the tangential component of the net force:
 $$
 \begin{aligned}

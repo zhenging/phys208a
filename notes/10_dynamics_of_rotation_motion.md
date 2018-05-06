@@ -9,9 +9,3 @@
 
 > HW: Ch. 10
 1, 4, 8, 9, 15, 16, 23, 31, 32, 33, 35, 40, 41
-
-#### Sections
-+ [Torque](./1001_torque.html)
-+ [Torque And Angular Acceleration](./1002_torque_and_angular_acceleration.html)
-+ [Rigid-Body Rotation About A Moving Axis](./1003_rotation_about_a_moving_axis.html)
-+ [Angular Momentum](./1005_angular_momentum.html)

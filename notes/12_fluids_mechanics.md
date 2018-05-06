@@ -8,9 +8,3 @@
 5. Demonstrate understanding and mastery of of Bernoulli's equation ("energy density equilization"), along with volume conservation to describing complex dynamic fluid flow systems (with ideally frictionless flow).
 
 > HW: 4, 9, 15, 21, 26, 28, 33, 38, 55, 58, 63, 72, 77, 81
-
-#### Sections
-+ [Pressure In a Fluid](./1202_pressure_in_a_fluid.html)
-+ [Buoyancy](./1203_buoyancy.html)
-+ [Fluid Flow](./1204_fluid_flow.html)
-+ [Bernoulli's Equation](./1205_bernoullis_equation.html)

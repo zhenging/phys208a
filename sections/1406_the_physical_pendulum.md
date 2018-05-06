@@ -4,7 +4,7 @@ tags: [SHM, simple harmonic motion, physical pendulum, torque]
 
 ### 1406 The Physical Pendulum
 A **Physical Pendulum** is any real pendulum that uses an extended body, as contrasted to the idealized simple pendulum with all of its mass concentrated at a point.
-![Graph](../assets/14.23.png)
+![Graph](../assets/fig_1423.png)
 **Figure 14.23** shows a body of irregular shape pivoted so that it can turn without friction about an axis through point $O$. When the body is displaced as shown, the weight mg causes a restoring torque
 $$
 \begin{aligned}

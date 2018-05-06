@@ -8,7 +8,3 @@
 
 > HW: Ch.8 (all sections)
 *11, 13, 17, 21, 27*, 31, 41, 44, 54, 79
-
-#### Sections
-[Momentum and Impulse](./0801_momentum_and_impulse.html)
-[Elastic Collision](./0804_elastic_collision.html)

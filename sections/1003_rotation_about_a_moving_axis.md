@@ -20,7 +20,7 @@ c. $2/5$
 c. $5/13$
 
 (10.20) A string is wrapped several times around the rim of a small hoop with radius 8.00 cm and mass 0.180 kg . The free end of the string is held in place and the hoop is released from rest (the figure (Figure 1)). After the hoop has descended 95.0 cm, calculate the angular speed of the rotating hoop and the speed of its center.
-![Graph](../assets/10-20.jpg)
+![Graph](../assets/10_20.jpg)
 >Solution
 $\omega = 38.1, v=3.05m/s$
 

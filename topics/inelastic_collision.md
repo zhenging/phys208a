@@ -25,7 +25,7 @@ $$
 #### Exercises
 (8.21) On a frictionless, horizontal air table, puck A (with mass $0.250 kg$) is moving toward puck B (with mass $0.355 kg$), that is initially at rest. After the collision, puck A has a velocity of $0.119 m/s$ to the left, and puck B has velocity $0.650 m/s$ to the right.
 (a) What was the speed of puck A before the collision?
-![Graph (8.21)](../assets/8.21.PNG)
+![Graph](../assets/8-21.PNG)
 >Solution
 **Identify**: Apply _conservation of momentum_ to the system of the two pucks.
 **Set up**: Let $+x$ be to the right.
@@ -56,7 +56,7 @@ K_2 &= \frac{1}{2}(m_a v_{af}^2 + m_b v_{bf}^2)\\
 $$
 
 (Quiz) A block of mass $m = 25kg$ has a speed of $v$ and is behind of a block $M=82kg$ that has a speed of $0.5m/s$. THe surface is frictionless. The blocks collide and couple. After the collision, the blocks have a commone speed of $0.9m/s$. Find the loss of kinetic energy.
-![Graph (8.21)](../assets/quiz_blocks_collide.PNG)
+![Graph](../assets/quiz_blocks_collide.PNG)
 >Solution
 1\. By Conservation of Momentum
 $$

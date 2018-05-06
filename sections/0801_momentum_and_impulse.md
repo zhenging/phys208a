@@ -126,6 +126,8 @@ $$
 (8.27) Two ice skaters, Daniel (mass $65.0 kg$) and Rebecca (mass $45.0 kg$), are practicing. Daniel stops to tie his shoelace and, while at rest, is struck by Rebecca, who is moving at $13.0 m/s$ before she collides with him. After the collision, Rebecca has a velocity of magnitude $8.00 m/s$ at an angle of $53.1 \degree$ from her initial direction. Both skaters move on the frictionless, horizontal surface of the rink.
 (a) What are the magnitude and direction of Daniel's velocity after the collision?
 (b) What is the change in total kinetic energy of the two skaters as a result of the collision?
+>Solution
+Todo
 
 (8.35) In July 2005, NASA's "Deep Impact" mission crashed a $372 kg$ probe directly onto the surface of the comet Tempel 1, hitting the surface at $37000 km/h$ relative to the surface. The original speed of the comet at that time was about $40000 km/h$, and its mass was estimated to be in the range $(0.10-2.5) \times 10^{14}kg$. Use the smallest value of the estimated mass.
 (a) What change in the comet's velocity did this collision produce?

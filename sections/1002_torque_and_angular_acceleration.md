@@ -43,7 +43,7 @@ b. $a = \alpha \cdot R = 33.0 \cdot 0.25 = 8.26m/s^2$
 c.
 
 (10.12) A stone is suspended from the free end of a wire that is wrapped around the outer rim of a pulley, similar to what is shown in (Figure 1). The pulley is a uniform disk with mass 13.0 kg and radius 27.0 cm and turns on frictionless bearings. You measure that the stone travels a distance 12.1 m during a time interval of 3.50 s starting from rest.
-![Graph](../assets/10.12.jpg)
+![Graph](../assets/10_12.jpg)
 a. Find the mass of the stone.
 b. Find the tension in the wire.
 >Solution

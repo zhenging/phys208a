@@ -9,8 +9,3 @@
 
 > HW: Ch.9
 1, 3, 4, 5, 6, 7, 11, 12, 13, 16, 18, 28, 33, 45, 48, 49, 50, 53, 54, 55, 58, 59, 75, 76
-
-#### Sections
-+ [Angular Velocity and Acceleration](./0901_angular_velocity_and_acceleration.html)
-+ [Parallel Axis Theorem](./0905_parallel_axis_theorem.html)
-+ [Moment of Inertia](./0906_moment_of_inertia.html)
