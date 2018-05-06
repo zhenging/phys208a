@@ -1,5 +1,5 @@
 ---
-tags: [torque, angular acceleration]
+tags: [rotation motion, torque, angular acceleration]
 ---
 
 ### 1002 Torque and Angular Acceleration

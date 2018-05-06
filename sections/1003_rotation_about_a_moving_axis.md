@@ -1,5 +1,5 @@
 ---
-tags: [torque, rotation, moving axis]
+tags: [rotation motion, torque, moving axis]
 ---
 
 ### 1003 Rigid-Body Rotation About a Moving Axis

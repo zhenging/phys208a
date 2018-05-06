@@ -8,4 +8,4 @@
 5. Demonstrate mastery of applying angular momentum conservation to analyze complex systems involving elastic/inelastic collisions involving translational/rotational objects.
 
 > HW: Ch. 10
-1, 4, 8, 9, 15, 16, 23, 31, 32, 33, 35, 40, 41
+1, 4, 8, 16, 23, 35, 40
