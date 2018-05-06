@@ -2,7 +2,7 @@
 tags: [circuluar motion, centripetal force, normal force, frictionless]
 ---
 
-### Circular Motion
+### 0504 Dynamics of Circular Motion
 Important Idea: Any object undergoing circular motion will experience acceleration (**centripetal acceleration** $\vec a_c$ or $\vec a_r$), and by Newton's Second Law, it takes a **Net Force**  to "force" that obect to undergo circular motion. That force is the **centripetal force** ($F_c$ or $F_r$), which is proportional to centripetal acceleration $\vec a_c$.
 $$
 \vec F_c = m\vec a_c = \frac{mv^2}{R}

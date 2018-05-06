@@ -2,8 +2,3 @@
 
 #### Learning Objectives
 Todo
-
-> HW:
-
-#### Sections
-+ [Thermal Expansion](./1701_thermal_expansion.html)

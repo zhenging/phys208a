@@ -8,10 +8,3 @@
 
 > Reading: Ch. 13 Sections 1, 2, 4
 HW: 30,
-
-#### Sections
-+ [Newton's Law of Gravitation](./1301_newtons_law_of_gravitation.html)
-+ [Weight](./1302_weight.html)
-+ [Gravitational Potential Energy](./1303_gravitational_potential_energy.html)
-+ [The Motion of Satellites](./1304_motion_of_satellites.html)
-+ [Black Hole](./1308_black_hole.html)

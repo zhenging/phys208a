@@ -2,6 +2,10 @@
 tags: [static friction, kinetic friction]
 ---
 
+### 0503 Friction Forces
+Kinetic and Static Friction
+
+#### Exercises
 (Mid Term 2) Block A, with a mass of 50kg, rests on a horizontal table top. The coefficient of static friction is 0.40. A horizontal string is attached to A and passed over a masseless, frictionless pulley as shown. The smallest mass $m_b$ of block B, attached to the danging end, that will start A moving when it is attached to the other end of the string is:
 ![Graph](../assets/mid_term2_friction.PNG)
 >Solution

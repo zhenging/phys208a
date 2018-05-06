@@ -7,8 +7,3 @@
 4. Be able to calculate displacement (or angle), velocity, acceleration, and energy for an object executing simple harmonic motion.
 
 > HW: 3, 4, 7, 19, 25, 27, 34, 37
-
-#### Sections
-+ [Simple Harmonic Motion](./1402_simple_harmonic_motion.html)
-+ [The Simple Pendulum](./1405_the_simple_pendulum.html)
-+ [The Physical Pendulum](./1406_physical_pendulum.html)
