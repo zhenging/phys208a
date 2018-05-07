@@ -36,8 +36,7 @@ b. Additional Force
 $$
 \begin{aligned}
 F = pA &= p (\pi d \cdot h)\\
-&= 1.66 \times 10^4 \cdot \pi \cdot 0.0022 \cdot 0.028
-&= 3.22 N
+&= 1.66 \times 10^4 \cdot \pi \cdot 0.0022 \cdot 0.028 = 3.22 N
 \end{aligned}
 $$
 

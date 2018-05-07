@@ -32,6 +32,8 @@ T = \frac{2\pi}{\omega} = 2\pi \sqrt{\frac{L}{g}}
 $$
 
 #### Exercises
+45, 47, 48
+
 (14.45) You pull a simple pendulum 0.240 m long to the side through an angle of $3.5 \degree$ and release it.
 (a) How much time does it take the pendulum bob to reach its highest speed?
 (b) How much time does it take if the pendulum is released at an angle of $1.75 \degree$ instead of $3.5 \degree$?

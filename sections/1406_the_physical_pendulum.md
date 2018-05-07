@@ -56,6 +56,8 @@ T &= 2\pi \sqrt{\frac{I}{mgd}} = 2\pi \sqrt{\frac{\frac{1}{3} mL^2}{mgL/2}} = 2\
 $$
 
 #### Exercises
+53, 54, 55, 64, 66, 68
+
 (14.53) Two pendulums have the same dimensions (length L) and total mass (m). Pendulum A is a very small ball swinging at the end of a uniform massless bar. In pendulum B, half the mass is in the ball and half is in the uniform bar.
 a. Find the period of pendulum A for small oscillations.
 b. Find the period of pendulum B for small oscillations.

@@ -34,6 +34,8 @@ a_x &= \frac{dv}{dt} = \frac{d^2 x}{dt^2} = -A\omega^2 \cos(\omega t + \phi)
 $$
 
 #### Exercises
+10, 13, 16, 21, 28, 37
+
 (14.10) When a 0.850-kg mass oscillates on an ideal spring, the frequency is 1.95 Hz.
 a. What will the frequency be if 0.160 kg are added to the original mass? Try to solve this problem without finding the force constant of the spring.
 b. What will the frequency be if 0.160 kg are subtracted from the original mass? Try to solve this problem without finding the force constant of the spring.
@@ -140,3 +142,7 @@ c. At an instant when the displacement is equal to $A/2$, what fraction of the t
 a. $x = \frac{\sqrt 2}{2}A$
 b. $v_x = \frac{\sqrt 2}{2}A \omega$
 c. $\frac{K}{E} = 0.75$
+
+(14.37) A 175-g glider on a horizontal, frictionless air track is attached to a fixed ideal spring with force constant 155 N/m. At the instant you make measurements on the glider, it is moving at 0.815 m/s and is 3.00 cm from its equilibrium point. Use energy conservation to find (a) the amplitude of the motion and (b) the maximum speed of the glider. (c) What is the angular frequency of the oscillations?
+>Solution
+Todo
