@@ -3,7 +3,12 @@ tags: [Weight]
 ---
 
 ### 1302 Weight
-Todo
+$$
+\begin{aligned}
+w &= F_g = \frac{Gm_E m}{R_E^2}\\
+g &= \frac{Gm_E}{R_E^2}
+\end{aligned}
+$$
 
 #### Exercises
 11, 12, 13, 15

@@ -56,9 +56,9 @@ The meaning of the area under a graph of $\sum F_x$ versus $t$.
 ![Graph a](../assets/impulse_a.PNG) ![Graph b](../assets/impulse_b.PNG)
 
 #### Exercises
-8.8 **Force of a Baseball Swing**. A baseball has mass $0.148 kg$.
-(a) If the velocity of a pitched ball has a magnitude of $43.5 m/s$ and the batted ball's velocity is $60.0 m/s$ in the opposite direction, find the magnitude of *the change in momentum* of the ball and of the impulse applied to it by the bat.
-(b) If the ball remains in contact with the bat for $2.40 ms$, find the magnitude of _the average force_ applied by the bat.
+8.8 **Force of a Baseball Swing**. A baseball has mass 0.148 kg.
+(a) If the velocity of a pitched ball has a magnitude of 43.5 m/s and the batted ball's velocity is 60.0 m/s in the opposite direction, find the magnitude of *the change in momentum* of the ball and of the impulse applied to it by the bat.
+(b) If the ball remains in contact with the bat for 2.40 ms, find the magnitude of _the average force_ applied by the bat.
 >Solution
 a. $P = 15.3 kg\cdot m/s$
 b. $F = 6382.5N$
@@ -97,7 +97,7 @@ $$
 >Solution
 $p_x,p_y = -2.46, 2.33 kg \cdot m/s$
 
-(8.16) A $64.5 kg$ astronaut is doing a repair in space on the orbiting space station. She throws a $2.35 kg$ tool away from her at $3.50 m/s$ relative to the space station. Find the speed and direction she begin to move.
+(8.16) A 64.5 kg astronaut is doing a repair in space on the orbiting space station. She throws a 2.35 kg tool away from her at 3.50 m/s relative to the space station. Find the speed and direction she begin to move.
 >Solution
 **Identify**: Conservation of Momentum
 **Setup**: Let the mass of the astronaut be $m_1$, and the mass of the tool be $m_2$. Without external force, the total momentum is zero before and after she throws the tool. Let the direction of motion of the astronaut be positive. $v_2=-3.5m/s$
@@ -110,7 +110,7 @@ $$
 $$
 She will move **opposite** to the direction in which she throws the tool.
 
-(8.17) The expanding gases that leave the muzzle of a rifle also contribute to the recoil. A $.30$-caliber bullet has mass $0.00720 kg$ and a speed of $601 m/s$ relative to the muzzle when fired from a rifle that has mass $2.80 kg$. The loosely held rifle recoils at a speed of $1.85 m/s$ relative to the earth. Find the momentum of the propellant gases in a coordinate system attached to the earth as they leave the muzzle of the rifle.
+(8.17) The expanding gases that leave the muzzle of a rifle also contribute to the recoil. A $.30$-caliber bullet has mass 0.00720 kg and a speed of 601 m/s relative to the muzzle when fired from a rifle that has mass 2.80 kg. The loosely held rifle recoils at a speed of 1.85 m/s relative to the earth. Find the momentum of the propellant gases in a coordinate system attached to the earth as they leave the muzzle of the rifle.
 >Solution
 **Identify**: The rifle, the bullet and the propellant gases are initially at rest, so the total momentum is zero. After the short is fired, the rifle, the bullet and the propellant all gain momentum.
 **Set up**: Let $+x$ direction be the bullet's direction.
@@ -123,7 +123,7 @@ p_g &= -p_r - p_b = 0.8528 N/s
 \end{aligned}
 $$
 
-(8.27) Two ice skaters, Daniel (mass $65.0 kg$) and Rebecca (mass $45.0 kg$), are practicing. Daniel stops to tie his shoelace and, while at rest, is struck by Rebecca, who is moving at $13.0 m/s$ before she collides with him. After the collision, Rebecca has a velocity of magnitude $8.00 m/s$ at an angle of $53.1 \degree$ from her initial direction. Both skaters move on the frictionless, horizontal surface of the rink.
+(8.27) Two ice skaters, Daniel (mass 65.0 kg) and Rebecca (mass 45.0 kg), are practicing. Daniel stops to tie his shoelace and, while at rest, is struck by Rebecca, who is moving at 13.0 m/s before she collides with him. After the collision, Rebecca has a velocity of magnitude 8.00 m/s at an angle of $53.1 \degree$ from her initial direction. Both skaters move on the frictionless, horizontal surface of the rink.
 (a) What are the magnitude and direction of Daniel's velocity after the collision?
 (b) What is the change in total kinetic energy of the two skaters as a result of the collision?
 >Solution

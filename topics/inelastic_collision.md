@@ -23,7 +23,7 @@ KE_2 &= \frac{1}{2}(m_1v_{1f}^2+m_2v_{2f}^2)\\
 $$
 
 #### Exercises
-(8.21) On a frictionless, horizontal air table, puck A (with mass $0.250 kg$) is moving toward puck B (with mass $0.355 kg$), that is initially at rest. After the collision, puck A has a velocity of $0.119 m/s$ to the left, and puck B has velocity $0.650 m/s$ to the right.
+(8.21) On a frictionless, horizontal air table, puck A (with mass 0.250 kg) is moving toward puck B (with mass 0.355 kg), that is initially at rest. After the collision, puck A has a velocity of 0.119 m/s to the left, and puck B has velocity 0.650 m/s to the right.
 (a) What was the speed of puck A before the collision?
 ![Graph](../assets/8-21.PNG)
 >Solution

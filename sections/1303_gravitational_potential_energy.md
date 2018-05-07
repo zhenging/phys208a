@@ -57,8 +57,8 @@ $$
 \begin{aligned}
 k_1 + U_1 &= k_2 + U_2\\
 \frac{1}{2}mv^2 + (- \frac{GM_E}{R_E}) &= 0 + (- \frac{GM_E}{2R_E})\\
-\To v &= \frac{GM_E}{R_E}\\
-&= \sqrt{\frac{6.67 \cdot 10^{-11} \cdot 5.97 \cdot 10^{24}}{6.37 \cdot 10^6}}\\
+\To v &= \sqrt{\frac{GM_E}{R_E}}\\
+&= \sqrt{\frac{G \cdot 5.97 \cdot 10^{24}}{6.37 \cdot 10^6}}\\
 &= 7910m/s
 \end{aligned}
 $$
@@ -67,7 +67,7 @@ $$
 \begin{aligned}
 \frac{1}{2}mv^2 + (- \frac{GM_E}{R_E}) &= 0 + 0\\
 \To v &= \frac{2GM_E}{R_E}\\
-&= \sqrt{\frac{2 \cdot 6.67 \cdot 10^{-11} \cdot 5.97 \cdot 10^{24}}{6.37 \cdot 10^6}}\\
+&= \sqrt{\frac{2G \cdot 5.97 \cdot 10^{24}}{6.37 \cdot 10^6}}\\
 &= 1.12 \times 10^4m/s
 \end{aligned}
 $$
@@ -85,9 +85,9 @@ From example 13.5
 $$
 \begin{aligned}
 v_{esc} &= \sqrt{\frac{2GM_{planet}}{R_{planet}}}\\
-v_{Mars} &= \sqrt{\frac{2\cdot 6.67 \cdot 10^{-11} \cdot 6.42 \cdot 10^{23}}{3.39 \cdot 10^6}}\\
+v_{Mars} &= \sqrt{\frac{2G \cdot 6.42 \cdot 10^{23}}{3.39 \cdot 10^6}}\\
 &= 5026m/s\\
-v_{Jupiter} &= \sqrt{\frac{2\cdot 6.67 \cdot 10^{-11} \cdot 1.90 \cdot 10^{27}}{6.99 \cdot 10^7}}\\
+v_{Jupiter} &= \sqrt{\frac{2G \cdot 1.90 \cdot 10^{27}}{6.99 \cdot 10^7}}\\
 &= 60210m/s\\
 \end{aligned}
 $$
