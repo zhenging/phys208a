@@ -7,4 +7,4 @@
 4. Understand how volume conservation ("conservation of incompressible fluid volumes") is applied to simple dynamic fluid flow systems.
 5. Demonstrate understanding and mastery of of Bernoulli's equation ("energy density equilization"), along with volume conservation to describing complex dynamic fluid flow systems (with ideally frictionless flow).
 
-> HW: 4, 9, 15, 21, 26, 28, 33, 38, 55, 58, 63, 72, 77, 81
+> HW: 4, 55, 58, 63, 72, 77, 81

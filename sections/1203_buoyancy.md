@@ -7,6 +7,8 @@ tags: [buoyancy, Archimede's Principle]
 **Archimedes's principLe**: When a body is completely or partially immersed in a fluid, the fluid exerts an upward force on the body equal to the weight of the fluid displaced by the body.
 
 #### Exercises
+26, 28, 30, 31, 32, 33
+
 (12.26) A rock has mass 1.80 kg. When the rock is suspended from the lower end of a string and totally immersed in water, the tension in the string is 12.8 N. What is the smallest density of a liquid in which the rock will float?
 >Solution
 Todo
@@ -68,3 +70,25 @@ c. The cord breaks and the sphere rises to the surface. When the sphere comes to
 a. $F = 6570N$
 b. $m=556kg$
 c. $\frac{V_{sub}}{V_{obj}} = 82.9 \%$
+
+(12.33) A cubical block of wood, 10.0 cm on a side, floats at the interface between oil and water with its lower surface 1.50 cm below the interface (Fig. E12.33). The density of the oil is $790 kg/m^3$. (a) What is the gauge pressure at the upper face of the block? (b) What is the gauge pressure at the lower face of the block? (c) What are the mass and density of the block?
+![Graph](../assets/12_33.png)
+>Solution
+The pressure on the upper face comes from the oil with height of $0.015$ m, and the pressure on the lower face comes from the total of the oil with height of $0.1$m and the water wight height of $0.015$ m.
+$$
+\begin{aligned}
+P_{upper} &= \rho_{o} g h_1\\
+&= 790 \cdot 9.8 \cdot 0.015 = 116 Pa\\
+P_{lower} &= \rho_{o} g \cdot 0.1  + \rho_{w} g h_1\\
+&= 790 \cdot 9.8 \cdot 0.1 + 1000 \cdot 9.8 \cdot 0.015 = 921.2 Pa\\
+\end{aligned}
+$$
+The weight of the block is the product of the pressure difference and the area of one side of the block.
+$$
+\begin{aligned}
+w &= (P_{lower} - P_{}) \cdot A\\
+&= (921.2-116) \cdot 0.1^2 = 8.05N\\
+\rho_w &= \frac{w}{g V}\\
+&= \frac{8.05}{9.8 \cdot 0.1^3} = 821.5kg/m^3
+\end{aligned}
+$$

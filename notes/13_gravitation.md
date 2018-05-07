@@ -7,4 +7,4 @@
 4. Understand the relationship between escape velocity and the formation of a black hole.
 
 > Reading: Ch. 13 Sections 1, 2, 4
-HW: 30,
+HW: 30

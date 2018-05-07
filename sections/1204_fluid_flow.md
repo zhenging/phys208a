@@ -44,3 +44,18 @@ v_a &= 0.0095 \cdot \frac{4}{\pi \cdot 0.08^2} = 1.89 m/s\\
 v_b &= 0.0095 \cdot \frac{4}{\pi \cdot 0.04^2} = 7.56 m/s
 \end{aligned}
 $$
+
+#### Exercises
+38
+
+(12.38) Water is flowing in a pipe with a varying cross-sectional area, and at all points the water completely fills the pipe. At point 1 the cross-sectional area of the pipe is $0.070 m^2$, and the magnitude of the fluid velocity is $3.50$ m/s. (a) What is the fluid speed at points in the pipe where the cross-sectional area is (a) $0.105 m^2$ and (b) 0$.047 m^2$? (c) Calculate the volume of water discharged from the open end of the pipe in 1.00 hour.
+>Solution
+We calculate the volume flow rate $\dfrac{dV}{dt}$ first
+$$
+\begin{aligned}
+\frac{dV}{dt} &= Av = 0.07 \cdot 3.5 = 0.245 m^3/s\\
+v_a &= \frac{\frac{dV}{dt}}{0.105} = 2.3 m/s\\
+v_b &= \frac{\frac{dV}{dt}}{0.047} = 5.2 m/s\\
+V_{total} &= \frac{dV}{dt} \cdot 3600 = 882 m^3
+\end{aligned}
+$$

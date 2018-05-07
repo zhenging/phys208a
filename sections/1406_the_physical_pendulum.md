@@ -99,7 +99,7 @@ T &= 2\pi \sqrt{\frac{2mR^2}{mgR}} = 2\pi \sqrt{\frac{2R}{g}}\\
 $$
 
 (14.55) A 1.80-kg connecting rod from a car engine is pivoted about a horizontal knife edge as shown in Fig. E14.55. The center of gravity of the rod was located by balancing and is 0.200 m from the pivot. When the rod is set into small-amplitude oscillation, it makes 100 complete swings in 120 s. Calculate the moment of inertia of the rod about the rotation axis through the pivot.
-![Graph](../assets/14-55.png)
+![Graph](../assets/14_55.png)
 >Solution
 1\. Period $T = \dfrac{120s}{100} = 1.2s$
 2\. The moment of inertia can be obtained by
@@ -107,8 +107,8 @@ $$
 \begin{aligned}
 T &= 2\pi \sqrt {\dfrac{I}{mgd}}\\
 \To I &= mgd \cdot (\frac{T}{2\pi})^2\\
-&= 1.8 \cdot 9.8 \cdot 0.02 \cdot (\frac{1.2}{2\pi})^2\\
-&= 0.0129 kg \cdot m^2
+&= 1.8 \cdot 9.8 \cdot 0.2 \cdot (\frac{1.2}{2\pi})^2\\
+&= 0.129 kg \cdot m^2
 \end{aligned}
 $$
 
@@ -154,6 +154,6 @@ T &=  2\pi \sqrt{\frac{m_{empty}}{k}}\\
 $$
 
 (14.68) A block with mass $M$ rests on a frictionless surface and is connected to a horizontal spring of force constant $k$. The other end of the spring is attached to a wall (Fig. P14.68). A second block with mass $m$ rests on top of the first block. The coefficient of static friction between the blocks is $\mu_s$. Find the maximum amplitude of oscillation such that the top block will not slip on the bottom block.
-![Graph](../assets/14-68.png)
+![Graph](../assets/14_68.png)
 >Solution
 Todo

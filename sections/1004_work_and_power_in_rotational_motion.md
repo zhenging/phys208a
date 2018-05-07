@@ -102,4 +102,9 @@ $$
 
 (10.33b)  A drum with negligible mass, 0.400 m in diameter, is attached to the motor shaft, and the power output of the motor is used to raise a weight hanging from a rope wrapped around the drum. How heavy a weight can the motor lift at constant speed and at what constant speed will the weight rise?
 >Solution
-???
+$$
+\begin{aligned}
+F &= \frac{\tau}{R} = \frac{358.1}{0.2} = 1790.5 N\\
+v &= \omega R = \frac{400}{3} \pi \cdot 0.2 = 83.8m/s
+\end{aligned}
+$$

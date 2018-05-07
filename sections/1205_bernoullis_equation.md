@@ -19,6 +19,8 @@ $v$ - Fluid speed.
 $\textrm{consant}$ - Value is the same at all points in flow tube.
 
 #### Exercises
+41, 42, 44, 46
+
 (12.41) A sealed tank containing seawater to a height of 10.1 m also contains air above the water at a gauge pressure of 3.15 atm . Water flows out from the bottom through a small hole.
 >Solution
 Apply Bernoulli's equation with points 1 and 2 chosen as shown in the figure. Let $y=0$ at the bottom of the tank so $y_1=10.1m$ and $y_2=0$. The target variable is v2.
