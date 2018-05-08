@@ -22,10 +22,10 @@ $\textrm{consant}$ - Value is the same at all points in flow tube.
 41, 42, 44, 46
 
 (12.41) A sealed tank containing seawater to a height of 10.1 m also contains air above the water at a gauge pressure of 3.15 atm . Water flows out from the bottom through a small hole.
+![Graph](../assets/12_41.JPG)
 >Solution
 Apply Bernoulli's equation with points 1 and 2 chosen as shown in the figure. Let $y=0$ at the bottom of the tank so $y_1=10.1m$ and $y_2=0$. The target variable is v2.
 $p_1 - p_a=3.15atm$.
-![Graph](../assets/12_41.JPG)
 $$
 \begin{aligned}
 p_1 + \rho gy_1 + \frac{1}{2} \rho v_1^2 = p_2 + \rho gy_2 + \frac{1}{2} \rho v_2^2

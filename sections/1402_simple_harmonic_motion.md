@@ -10,9 +10,7 @@ F_x &= -kx \quad &\text{(1)}
 \end{aligned}
 $$
 where $F_x$ is the restoring force exerted by an ideal spring, $k$ is the force constant of spring and $x$ is the displacement of the spring.
-When the restoring force is directly proportional to the displacement from
-equilibrium, as given by Eq. (1), the oscillation is called simple harmonic
-motion (SHM). The acceleration is
+When the restoring force is directly proportional to the displacement from equilibrium, as given by Eq. (1), the oscillation is called simple harmonic motion (SHM). The acceleration is
 $$
 \begin{aligned}
 a_x = \frac{d^2 x}{dt^2} = -\frac{k}{m}x \quad &\text{(2)}
@@ -29,7 +27,8 @@ We find the velocity $v_x$ and acceleration $a_x$ as functions of time for a har
 $$
 \begin{aligned}
 v_x &= \frac{dx}{dt} = -A\omega \sin(\omega t + \phi) \\
-a_x &= \frac{dv}{dt} = \frac{d^2 x}{dt^2} = -A\omega^2 \cos(\omega t + \phi)
+a_x &= \frac{dv}{dt} = \frac{d^2 x}{dt^2} = -A\omega^2 \cos(\omega t + \phi)\\
+a_x &= -\omega^2 x(t)
 \end{aligned}
 $$
 
