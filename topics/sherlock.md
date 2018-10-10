@@ -5,7 +5,7 @@ English 201C
 
 1. People in military have military styles.
 Watson has military styles.
-$\therefore $ Watson served in military.
+$\therefore$ Watson served in military.
 **P1**: Acceptable - Commone Sense
 **P2**: Acceptable - Fact from Movie
 **Conclusion**:
