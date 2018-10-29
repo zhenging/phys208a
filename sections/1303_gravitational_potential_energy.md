@@ -105,3 +105,7 @@ v_{esc} &= \sqrt{\frac{GM}{R}} \text{ and } g = \frac{GM}{R^2}\\
 &= \frac{(7.65 \cdot 10^3)^2}{2\cdot 3.24 \cdot 10^6} = 9.03m/s^2
 \end{aligned}
 $$
+
+A meteor of mass about $3.4 \times 10^{12}kg$ (a chunk of ice about a mile in diameter) is heading straight for Jupiter. When it hits, there will be a huge release of energy, visible here on earth. Assuming it has fallen from far away, how much energy will be released when it hits Jupiter? The radius of Jupiter is about $7 \times 10^7 m$ and its mass is $1.9 \times 10^{27}kg$.
+>Solution
+$6.1 \times 10^{21}J$

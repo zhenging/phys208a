@@ -84,3 +84,7 @@ T &= \frac{2\pi R}{v}\\
 &= \frac{2\pi \cdot 6000}{4.1} \approx 2.6h
 \end{aligned}
 $$
+
+An object is projected vertically upward from the surface of a nonrotating planet of radius $R$, with an initial velocity equal to 48% of the escape velocity for the planet. THe maximum distance from the center of the planet attained by the object is closed to
+>Solution
+$1.3R$

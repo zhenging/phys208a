@@ -67,4 +67,4 @@ $$
 &= - 10.6 rad/s^2
 \end{aligned}
 $$
-c. $t_2 = 0 - \frac{\omega_0}{\alpha} = 9.0s$. The total time is $t = t_1 + t_2 = 1.9 + 9 = 10.9s$
+c. $t_2 = 0 - \dfrac{\omega_0}{\alpha} = 9.0s$. The total time is $t = t_1 + t_2 = 1.9 + 9 = 10.9s$

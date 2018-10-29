@@ -84,3 +84,7 @@ A_2 &= 4 A_1\\
 \To p_2 &= 1.6 \cdot 10^5 Pa
 \end{aligned}
 $$
+
+Water (density $=1.0 \times 10^3 kg/m^3$) flows through a horizontal tapered pipe. At the wide end its speed is $4.0m/s$. The difference in pressure between two ends is $4.5 \times 10^3 Pa$. The speed of the water at the narrow end is:
+>Solution
+$5.0m/s$.
